@@ -9,9 +9,4 @@
   Quá trình huấn luyện diễn ra ổn định.
   Số epoch được lựa chọn là phù hợp, mô hình đã hội tụ.
   Tuy nhiên có điểm bất hợp lý là val lại cao hơn train có thể là do aug mạnh ở train
--  So sánh có và không sử dụng Data Augmentation:
-Tiêu chí	            Không Augmentation	  Có Augmentation
-Train accuracy	      Cao	                  Cao
-Validation accuracy	  Thấp hơn	            Cao hơn
-Overfitting	          Dễ xảy ra	            Giảm rõ rệt
-Khả năng tổng quát	  Kém hơn	              Tốt hơn
+
